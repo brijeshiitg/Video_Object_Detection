@@ -22,7 +22,7 @@
  7. Output: This code first converts the given video 
  	to sequence of frame then applies detection on individual frames. Later detected
  	frames are transformed to video.
- 	Therefore, it generates two intermediate directories (1) to keep converted frames
+ 	Therefore, it generates two intermediate directories (1) to keep converted video frames
  	and (2) to keep detected frames
 
  8. The final output will be 'detected_filename'
