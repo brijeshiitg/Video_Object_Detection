@@ -1,21 +1,10 @@
+
+
 # Video_Object_Detection
 
+##Demo##
 
-
-<table>
-  <tr>
-    <td align="center">Input video</td>
-     <td align="center">Ouput video</td>
-  </tr>
-  <tr>
-   <video>
-  <source src="video/msh.mp4" type="video/mp4">
-  </video>
-   <video>
-  <source src="video/detected_msh.mp4" type="video/mp4">
-  </video>
-  </tr>
- </table>
+![detected_msh](https://user-images.githubusercontent.com/21377671/110313967-3c63f700-802d-11eb-8862-9e7f1ca76e40.gif)
  
  1. Setup your environment by installing "requirement.txt"
 
