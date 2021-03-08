@@ -1,4 +1,23 @@
 # Video_Object_Detection
+
+
+
+<table>
+  <tr>
+    <td align="center">Input video</td>
+     <td align="center">Ouput video</td>
+  </tr>
+  <tr>
+   <video>
+  <source src="path/to/video.webm" type="video/webm; codecs=vp9,vorbis">
+  <source src="path/to/video.mp4" type="video/mp4">
+  </video>
+   <video>
+  <source src="path/to/video.webm" type="video/webm; codecs=vp9,vorbis">
+  <source src="path/to/video.mp4" type="video/mp4">
+  </video>
+  </tr>
+ </table>
  
  1. Setup your environment by installing "requirement.txt"
 
