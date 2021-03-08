@@ -9,12 +9,10 @@
   </tr>
   <tr>
    <video>
-  <source src="path/to/video.webm" type="video/webm; codecs=vp9,vorbis">
-  <source src="path/to/video.mp4" type="video/mp4">
+  <source src="video/msh.mp4" type="video/mp4">
   </video>
    <video>
-  <source src="path/to/video.webm" type="video/webm; codecs=vp9,vorbis">
-  <source src="path/to/video.mp4" type="video/mp4">
+  <source src="video/detected_msh.mp4" type="video/mp4">
   </video>
   </tr>
  </table>
