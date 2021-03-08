@@ -18,4 +18,4 @@
  	Therefore, it generates two intermediate directories (1) to keep converted frames
  	and (2) to keep detected frames
 
- 	The final output will be 'detected_filename'
+ 	8. The final output will be 'detected_filename'
