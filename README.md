@@ -1,12 +1,10 @@
 # Video_Object_Detection
  
-# Video_Object_Detection
- 
  1. Setup your environment by installing "requirement.txt"
 
  2. Download pretrined weights of YOLOv3 and place into 'config' directory
 
- 3. Pretrained weights are available at:[[https://drive.google.com/file/d/1GsEvAXcgzpKIZnB3raYngbz126dLkXr8/view?usp=sharing] YOLOv3]
+ 3. Pretrained weights are available at:[[YOLOv3 weights](https://drive.google.com/file/d/1GsEvAXcgzpKIZnB3raYngbz126dLkXr8/view?usp=sharing)]
 
  4. Place your test video in 'video' directory
 
@@ -20,4 +18,4 @@
  	Therefore, it generates two intermediate directories (1) to keep converted frames
  	and (2) to keep detected frames
 
- 	The final output will be 'detected_<filename>'
+ 	The final output will be 'detected_filename'
