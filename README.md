@@ -2,10 +2,11 @@
 
 # Video_Object_Detection
 
-##Demo
+## Demo
 
-![detected_msh](https://user-images.githubusercontent.com/21377671/110313967-3c63f700-802d-11eb-8862-9e7f1ca76e40.gif)
- 
+![detect_msh](https://user-images.githubusercontent.com/21377671/110315178-e55f2180-802e-11eb-9569-684a6220100a.gif)
+
+ ## Setup
  1. Setup your environment by installing "requirement.txt"
 
  2. Download pretrined weights of YOLOv3 and place into 'config' directory
