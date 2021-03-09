@@ -11,7 +11,7 @@
 
  2. Download pretrined weights of YOLOv3 and place into 'config' directory
 
- 3. Pretrained weights are available at:[[YOLOv3 weights](https://drive.google.com/file/d/1GsEvAXcgzpKIZnB3raYngbz126dLkXr8/view?usp=sharing)]
+ 3. Pretrained weights are available at:[YOLOv3 weights](https://drive.google.com/file/d/1GsEvAXcgzpKIZnB3raYngbz126dLkXr8/view?usp=sharing)
 
  4. Place your test video in 'video' directory
 
@@ -26,3 +26,6 @@
  	and (2) to keep detected frames
 
  8. The final output will be 'detected_filename'
+
+
+Credit: Some of code snippets have been taken from [repo](https://github.com/cfotache/pytorch_objectdetecttrack?fbclid=IwAR0Ih6PoswYW_JptXRWMJ6LX2hcKr82ROvOlYwPLE04RjreyCXsxVyv2XQk)
