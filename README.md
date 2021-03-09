@@ -2,9 +2,9 @@
 
 ## Demo
 
-![detect_msh](https://user-images.githubusercontent.com/21377671/110315178-e55f2180-802e-11eb-9569-684a6220100a.gif)
+  <img src="https://user-images.githubusercontent.com/21377671/110315178-e55f2180-802e-11eb-9569-684a6220100a.gif" width="500" height="400"> 
+  <img src="https://user-images.githubusercontent.com/21377671/110324824-86080e00-803c-11eb-9921-f6e38937545d.gif" width="500" height="400">
 
-![detected_Lab](https://user-images.githubusercontent.com/21377671/110324824-86080e00-803c-11eb-9921-f6e38937545d.gif)
 
  ## Setup
  1. Setup your environment by installing "requirement.txt"
